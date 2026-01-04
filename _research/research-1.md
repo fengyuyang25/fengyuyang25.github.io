@@ -5,5 +5,6 @@ cover: /assets/images/covers/dCvx.jpg
 # links:
 #   Paper: https://example.com/paper.pdf
 #   Code: https://github.com/yourusername/project
-#   Slides: https://example.com/slides.pdf
+#   Slides: https://example.com/slide s.pdf
 ---
+ 
