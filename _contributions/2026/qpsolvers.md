@@ -24,7 +24,7 @@ contributors:
   - Samuel St-Jean
   - Nicola Vitucci
   - Soeren Wolfers
-  - Fengyu Yang
+  - Fengyu Yang*
   - Ahmed Khalil
 
 links:
