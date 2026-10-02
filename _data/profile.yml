@@ -9,7 +9,6 @@ positions:
 
 
 email: "fengyu.yang19@gmail.com"
-cv_link: /assets/files/Fengyu_Yang_cv.pdf
 gscholar: https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&user=7tEWSZUAAAAJ  # This is an example, replace it with your own Google Scholar ID
 github: 563925743
 # twitter: your_twitter_id  # Do not include the '@' symbol
@@ -21,9 +20,7 @@ linkedin: yang-fengyu
 
 short_bio_text_justify: false
 short_bio: >-
-  I am currently a Ph.D. candidate at University of North Carolina at Chapel Hill, advised by <a href="https://shaharkov.github.io/">Prof. Shahar Kovalsky</a>. My research focuses on <strong>Differentiable Optimization, Machine Learning, and Statistical Modeling</strong>. I am currently a Research Scientist intern at ByteDance Seed-AI for Science team, working on AI-driven protein structure reconstruction. 
-  <br><br>
-  <strong>Open to work:</strong> I am actively seeking full-time opportunities in AI/ML research and development. Feel free to reach out if you'd like to connect!
+  My research focuses on <strong>Differentiable Optimization, Machine Learning, and Statistical Modeling</strong>.
   
 portrait_url: /assets/images/photos/my.jpg
 # portrait_caption: >-
@@ -34,7 +31,7 @@ education:
   logo: /assets/images/badges/unc.png
   position: >- 
     Ph.D. in Applied Mathematics, Minor in Statistics & Operations Research
-  date: Aug. 2021 - present
+  date: Aug. 2021 - May. 2026
 - name: University of Chicago
   logo: /assets/images/badges/uchicago.png
   position: M.S. in Computational and Applied Mathematics
@@ -49,12 +46,12 @@ experience:
 - name: ByteDance
   logo: /assets/images/badges/bytedance.png
   position: Seed-AI for Science, Research Scientist Intern
-  date: May 2025 -- Present
+  date: May. 2025 - Dec. 2025
   
 - name: Argonne National Laboratory
   logo: /assets/images/badges/argn.png
   position: Givens Associate
-  date: May 2023 - Aug. 2023
+  date: May. 2023 - Aug. 2023
   
 - name: Deloitte Consulting (Shanghai)
   logo: /assets/images/badges/deloitte.jpeg
